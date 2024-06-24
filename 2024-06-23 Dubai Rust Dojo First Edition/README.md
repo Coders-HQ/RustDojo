@@ -32,7 +32,7 @@ Each file in this repository represents a different approach to solving the Kata
 
 1. How readable is the code for each approach?
 2. How fast does each approach run?
-3. Ways to "overthink" the Kata and create more complex solutions
+3. Ways to "overthink" the Kata and create more complex solutions. You can use Python to run "create_test_csv.py" to create a 5GB Dataset (large_file50m.csv) to test against.
 
 ## Presentations
 
