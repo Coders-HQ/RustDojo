@@ -1,0 +1,10 @@
+[package]
+name = "Rustdojo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.1"
+datafusion = "39.0.0"
+tokio = {version = "1.38.0", features = ["rt", "rt-multi-thread", "macros"]}
+
